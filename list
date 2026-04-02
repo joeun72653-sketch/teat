@@ -1,0 +1,9 @@
+# 괼호를 연결하여 문자열을 연결할 수 있다.
+
+test = (
+    " 이렇게 이력해도"
+    " 하나의 문자열로 연결되어"
+    " 생성된다."
+
+print("test:", test)
+print(type(test):", type(test))
